@@ -6,7 +6,7 @@
 
 ## Стек
 
-- Python > 3.7
+- Python > 3.9.10
   - isort, black, autoflake
   - Django < 3.3
   - Celery[Redis]
